@@ -21,3 +21,27 @@ This project utilizes "Data Sale.csv" as its primary data source. The dataset is
 - Power BI (For visualizing and reporting insights)  
 - MS PowerPoint (For final project presentation)
 
+### Data cleaning and Preparation
+The data cleaning and preparation stage includes:  
+1. Importing the data and reviewing its structure  
+2. Managing any missing or incomplete values  
+3. Formatting and cleaning the data to ensure consistency and readiness for analysis
+
+### Exploratory Data Analysis  
+During EDA, we analyzed the data to uncover insights, including:  
+- Identifying overall sales patterns  
+- Determining best-selling products  
+- Finding products with the highest sales peaks
+
+Data Analysis  
+Here, we present essential code examples, queries, or DAX formulas applied throughout the data analysis to derive meaningful insights.
+
+ ``` SQL
+alter table employee
+add state_of_ origin varchar(100)
+select a,b,c
+where a>= 45
+```
+
+
+
