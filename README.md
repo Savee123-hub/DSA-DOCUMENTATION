@@ -42,6 +42,7 @@ add state_of_ origin varchar(100)
 select a,b,c
 where a>= 45
 ```
+### Anallysis
 
-
+![Screenshot (298)](https://github.com/user-attachments/assets/28837e48-dbb1-41a1-ae3e-97e6d26512ed)
 
